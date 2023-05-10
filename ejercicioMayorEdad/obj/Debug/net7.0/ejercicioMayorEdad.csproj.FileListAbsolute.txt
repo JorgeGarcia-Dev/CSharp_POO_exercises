@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/bin/Debug/net7.0/ejercicioMayorEdad
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/bin/Debug/net7.0/ejercicioMayorEdad.deps.json
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/bin/Debug/net7.0/ejercicioMayorEdad.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/bin/Debug/net7.0/ejercicioMayorEdad.dll
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/bin/Debug/net7.0/ejercicioMayorEdad.pdb
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.dll
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/refint/ejercicioMayorEdad.dll
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.pdb
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ejercicioMayorEdad.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioMayorEdad/obj/Debug/net7.0/ref/ejercicioMayorEdad.dll

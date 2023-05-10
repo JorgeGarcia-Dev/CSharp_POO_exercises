@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioAlumno/ejercicioAlumno.csproj": {}
+  },
+  "projects": {
+    "/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioAlumno/ejercicioAlumno.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioAlumno/ejercicioAlumno.csproj",
+        "projectName": "ejercicioAlumno",
+        "projectPath": "/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioAlumno/ejercicioAlumno.csproj",
+        "packagesPath": "/Users/georgegarcia/.nuget/packages/",
+        "outputPath": "/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioAlumno/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/georgegarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

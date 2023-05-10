@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/bin/Debug/net7.0/ejercicioOperaciones
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/bin/Debug/net7.0/ejercicioOperaciones.deps.json
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/bin/Debug/net7.0/ejercicioOperaciones.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/bin/Debug/net7.0/ejercicioOperaciones.dll
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/bin/Debug/net7.0/ejercicioOperaciones.pdb
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.dll
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/refint/ejercicioOperaciones.dll
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.pdb
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ejercicioOperaciones.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/POO/POO_exercises/ejercicioOperaciones/obj/Debug/net7.0/ref/ejercicioOperaciones.dll
