@@ -1,3 +1,5 @@
+![Banner CSharp](./img/Banner_CSharp_White.png)
+
 # Ejercicios Básicos de POO con C#
 
 ---
